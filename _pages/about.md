@@ -24,6 +24,12 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 | [paper](https://arxiv.org/abs/paper-id) | [code](https://github.com/code-link) |
 -->
 
+### Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs
+
+<span style="color:green">ICML 2025</span>
+
+Y. Jiang\*, F. Fu\*, X. Yao\*, **G. He**\*, X. Miao, A. Klimovic, B. Cui, B. Yuan, E. Yoneki
+
 
 ## RL-driven Performance Optimization
 
@@ -31,7 +37,14 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 
 <span style="color:green">CGO 2025</span>
 
-**Guoliang He**, Eiko Yoneki
+**G. He**, E. Yoneki
+
+
+### Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search
+
+<span style="color:green">PACT 2024</span>
+
+J. Hartmann, **G. He** and E. Yoneki
 
 
 
