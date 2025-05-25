@@ -25,22 +25,34 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 -->
 
 **Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs**
+
 <span style="color:green">ICML 2025</span>
 
 Y. Jiang\*, F. Fu\*, X. Yao\*, **G. He**\*, X. Miao, A. Klimovic, B. Cui, B. Yuan, E. Yoneki
 
 <br>
 
-## RL-driven Performance Optimization
-
 **CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**
+
 <span style="color:green">CGO 2025</span>
 
 **G. He**, E. Yoneki
 
 <br>
 
+**vPALs: Towards Verified Performance-aware Learning System For Resource Management**
+
+<span style="color:green">AAAI 2024, deployable AI workshop.</span>
+
+**G. He**, G. Yeung, S. Ceesay, and A. Barker
+
+<br>
+
+
+## RL-driven Performance Optimization
+
 **Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search**
+
 <span style="color:green">PACT 2024</span>
 
 J. Hartmann, **G. He** and E. Yoneki
@@ -48,6 +60,7 @@ J. Hartmann, **G. He** and E. Yoneki
 <br>
 
 **X-RLflow: Graph Reinforcement Learning for Neural Network Subgraph Transformation**
+
 <span style="color:green">MLSys 2023</span>
 
 **G. He**, S. Parker, and E. Yoneki
@@ -55,9 +68,11 @@ J. Hartmann, **G. He** and E. Yoneki
 <br>
 
 **MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder**
+
 <span style="color:green">EuroSys 2023, EuroMLSys workshop</span>
 
 **G. He**, Z. Singh, and E. Yoneki
+
 
 
 
