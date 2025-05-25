@@ -12,7 +12,7 @@ I am a final year PhD Student in the [system research group](https://www.cl.cam.
 # Latest publications
 (*  denotes equal contributions)
 
-## LLM Systems, training and serving performance
+### LLM Systems, training and serving performance
 
 <!--
 - **Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs**
@@ -47,7 +47,7 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 <br>
 
 
-## RL-driven Performance Optimization
+### RL-driven Performance Optimization
 
 - **Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search**
 
