@@ -29,17 +29,13 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
     Y. Jiang\*, F. Fu\*, X. Yao\*, **G. He**\*, X. Miao, A. Klimovic, B. Cui, B. Yuan, E. Yoneki
 
 
-- **CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**
-
-    <span style="color:green">CGO 2025</span>
-
+- **CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**<br>
+    <span style="color:green">CGO 2025</span><br>
     **G. He**, E. Yoneki
 
 
-- **vPALs: Towards Verified Performance-aware Learning System For Resource Management**
-
-    <span style="color:green">AAAI 2024, deployable AI workshop.</span>
-
+- **vPALs: Towards Verified Performance-aware Learning System For Resource Management**<br>
+    <span style="color:green">AAAI 2024, deployable AI workshop.</span><br>
     **G. He**, G. Yeung, S. Ceesay, and A. Barker
 
 <br>
@@ -47,24 +43,18 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 
 ### RL-driven Performance Optimization
 
-- **Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search**
-
-    <span style="color:green">PACT 2024</span>
-
+- **Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search**<br>
+    <span style="color:green">PACT 2024</span><br>
     J. Hartmann, **G. He** and E. Yoneki
 
 
-- **X-RLflow: Graph Reinforcement Learning for Neural Network Subgraph Transformation**
-
-    <span style="color:green">MLSys 2023</span>
-
+- **X-RLflow: Graph Reinforcement Learning for Neural Network Subgraph Transformation**<br>
+    <span style="color:green">MLSys 2023</span><br>
     **G. He**, S. Parker, and E. Yoneki
 
 
-- **MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder**
-
-    <span style="color:green">EuroSys 2023, EuroMLSys workshop</span>
-
+- **MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder**<br>
+    <span style="color:green">EuroSys 2023, EuroMLSys workshop</span><br>
     **G. He**, Z. Singh, and E. Yoneki
 
 
