@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD Student in the [system research group](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology, University of Cambridge, advised by [Dr Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/). My research focuses on RL-driven performance optimization, and recently works on efficient LLM systems.
+I am a final year PhD Student in the [system research group](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology, University of Cambridge, advised by [Dr Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/). My research focuses on RL-driven performance optimization, and recently works on LLM systems for efficient training and inference.
 
 # Latest publications
 (*  denotes equal contributions)
@@ -24,10 +24,8 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 | [paper](https://arxiv.org/abs/paper-id) | [code](https://github.com/code-link) |
 -->
 
-- **Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs**
-
-    <span style="color:green">ICML 2025</span>
-
+- **Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs**<br>
+    <span style="color:green">ICML 2025</span><br>
     Y. Jiang\*, F. Fu\*, X. Yao\*, **G. He**\*, X. Miao, A. Klimovic, B. Cui, B. Yuan, E. Yoneki
 
 
