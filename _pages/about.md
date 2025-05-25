@@ -12,7 +12,7 @@ I am a final year PhD Student in the [system research group](https://www.cl.cam.
 # Latest publications
 (*  denotes equal contributions)
 
-### LLM Systems, Training and Serving Performance
+### LLM Systems, Training and Serving
 
 <!--
 - **Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs**
