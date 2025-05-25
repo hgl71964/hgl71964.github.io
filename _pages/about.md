@@ -27,7 +27,7 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 
 ## RL for LLM Performance Optimization
 
-**CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**
+#### CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning
 **Guoliang He**, Eiko Yoneki
 
 <span style="color:green">CGO 2025</span>""
