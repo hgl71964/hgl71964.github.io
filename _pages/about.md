@@ -26,23 +26,23 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 
 - **Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs**
 
-<span style="color:green">ICML 2025</span>
+    <span style="color:green">ICML 2025</span>
 
-Y. Jiang\*, F. Fu\*, X. Yao\*, **G. He**\*, X. Miao, A. Klimovic, B. Cui, B. Yuan, E. Yoneki
+    Y. Jiang\*, F. Fu\*, X. Yao\*, **G. He**\*, X. Miao, A. Klimovic, B. Cui, B. Yuan, E. Yoneki
 
 
 - **CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**
 
-<span style="color:green">CGO 2025</span>
+    <span style="color:green">CGO 2025</span>
 
-**G. He**, E. Yoneki
+    **G. He**, E. Yoneki
 
 
 - **vPALs: Towards Verified Performance-aware Learning System For Resource Management**
 
-<span style="color:green">AAAI 2024, deployable AI workshop.</span>
+    <span style="color:green">AAAI 2024, deployable AI workshop.</span>
 
-**G. He**, G. Yeung, S. Ceesay, and A. Barker
+    **G. He**, G. Yeung, S. Ceesay, and A. Barker
 
 <br>
 
