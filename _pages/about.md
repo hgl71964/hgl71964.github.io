@@ -9,13 +9,15 @@ redirect_from:
 
 I am a final year PhD Student at the Department of Computer Science and Technology, University of Cambridge. My research focuses on
 
-# Latest publications (*  denotes equal contributions)
+# Latest publications
+(*  denotes equal contributions)
 
 ## LLM Performance, training and serving
 
 ## RL for LLM Performance Optimization,
 
-**Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs**
+- **Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs**
+
 Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun Wang, Du Zixian, Zhuo Jiang, Xinlei Zhang, Binhang Yuan, Eiko Yoneki
 **Arxiv**
 | paper | code |
