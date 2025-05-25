@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD Student in the [system research group](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology, University of Cambridge. My research focuses on
+I am a final year PhD Student in the [system research group](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology, University of Cambridge, advised by [Dr Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/). My research focuses on RL-driven performance optimization, and recently works on efficient LLM systems.
 
 # Latest publications
 (*  denotes equal contributions)
@@ -30,6 +30,7 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 ### CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning
 
 <span style="color:green">CGO 2025</span>
+
 **Guoliang He**, Eiko Yoneki
 
 
