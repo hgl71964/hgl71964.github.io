@@ -14,13 +14,29 @@ I am a final year PhD Student at the Department of Computer Science and Technolo
 
 ## LLM Performance, training and serving
 
-## RL for LLM Performance Optimization,
-
+<!--
 - **Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs**
 
 Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun Wang, Du Zixian, Zhuo Jiang, Xinlei Zhang, Binhang Yuan, Eiko Yoneki
-**Arxiv**
-| paper | code |
+
+*Arxiv*
+
+| [paper](https://arxiv.org/abs/paper-id) | [code](https://github.com/code-link) |
+-->
+
+
+## RL for LLM Performance Optimization
+
+- **CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**
+
+**Guoliang He**, Eiko Yoneki
+
+*CGO-2025*
+
+| [paper](https://dl.acm.org/doi/10.1145/3696443.3708943) | [code](https://github.com/hgl71964/cuasmrl/tree/reproduce) |
+
+
+
 
 
 
