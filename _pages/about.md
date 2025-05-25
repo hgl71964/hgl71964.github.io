@@ -35,7 +35,7 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 
 
 - **vPALs: Towards Verified Performance-aware Learning System For Resource Management**<br>
-    <span style="color:green">AAAI 2024, deployable AI workshop.</span><br>
+    <span style="color:green">AAAI 2024, deployable AI workshop</span><br>
     **G. He**, G. Yeung, S. Ceesay, and A. Barker
 
 <br>
