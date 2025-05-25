@@ -51,23 +51,23 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 
 - **Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search**
 
-<span style="color:green">PACT 2024</span>
+    <span style="color:green">PACT 2024</span>
 
-J. Hartmann, **G. He** and E. Yoneki
+    J. Hartmann, **G. He** and E. Yoneki
 
 
 - **X-RLflow: Graph Reinforcement Learning for Neural Network Subgraph Transformation**
 
-<span style="color:green">MLSys 2023</span>
+    <span style="color:green">MLSys 2023</span>
 
-**G. He**, S. Parker, and E. Yoneki
+    **G. He**, S. Parker, and E. Yoneki
 
 
 - **MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder**
 
-<span style="color:green">EuroSys 2023, EuroMLSys workshop</span>
+    <span style="color:green">EuroSys 2023, EuroMLSys workshop</span>
 
-**G. He**, Z. Singh, and E. Yoneki
+    **G. He**, Z. Singh, and E. Yoneki
 
 
 
