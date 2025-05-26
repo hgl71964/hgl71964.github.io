@@ -4,4 +4,4 @@ title: "Pytorch"
 collection: portfolio
 ---
 
-[Pytorch2](https://github.com/pytorch/pytorch) is a ML compiler framework for dynamic deep learning workloads. It features Dynamo and Inductor as the compiler frontend and backend to optimize deep learning codes. I have contributed to both components during my PhD study, which deepens my understanding of ML compiler stack.
+[Pytorch2](https://github.com/pytorch/pytorch) is an ML compiler framework for dynamic deep learning workloads. It features Dynamo and Inductor as the compiler frontend and backend to optimize deep learning codes. I have contributed to both components during my PhD study, which deepens my understanding to ML compilers.
