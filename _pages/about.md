@@ -43,6 +43,9 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
     <span style="color:green">CGO 2025</span><br>
     **G. He**, E. Yoneki
 
+- **SIP: Autotuning GPU Native Schedules via Stochastic Instruction Perturbation**<br>
+    <span style="color:green">EuroSys 2024, EuroMLSys workshop</span><br>
+    **G. He**, E. Yoneki
 
 - **vPALs: Towards Verified Performance-aware Learning System For Resource Management**<br>
     <span style="color:green">AAAI 2024, deployable AI workshop</span><br>
