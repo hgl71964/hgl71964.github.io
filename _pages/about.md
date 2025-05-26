@@ -13,11 +13,9 @@ I have worked in the following cutting-edge research labs on efficient LLM syste
 
 - **Bytedance Seed** pre-training platform team: I studied the impact of physical network topology to pre-training LLMs at the scale of O(10,000) GPUs, and developed scheduling systems for pre-training jobs.
 
-- **Shanghai AI Lab** LLM infrastructure team: I contributed to [LMDeploy](https://github.com/InternLM/lmdeploy) [![GitHub stars](https://img.shields.io/github/stars/username/repository)](https://github.com/InternLM/lmdeploy), a high performance inference framework for LLMs.
+- **Shanghai AI Lab** LLM infrastructure team: I contributed to [LMDeploy](https://github.com/InternLM/lmdeploy), [![Star Count](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social)](https://github.com/InternLM/lmdeploy/stargazers), a high performance inference framework for LLMs.
 
-[LMDeploy](https://github.com/InternLM/lmdeploy), [![Star Count](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social)](https://github.com/InternLM/lmdeploy/stargazers)
-
-I have also contributed to open-source projects such as [Pytorch](https://github.com/pytorch/pytorch) and [Triton](https://github.com/triton-lang/triton). For more information, see my Project page.
+I have also contributed to open-source projects such as [Pytorch](https://github.com/pytorch/pytorch) and [Triton](https://github.com/triton-lang/triton). <!-- For more information, see my Project page. -->
 
 <br>
 
