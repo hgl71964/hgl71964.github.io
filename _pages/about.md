@@ -15,7 +15,7 @@ I have worked in the following cutting-edge research labs on efficient LLM syste
 
 - **Shanghai AI Lab** LLM infrastructure team: I contributed to [LMDeploy](https://github.com/InternLM/lmdeploy) [![GitHub stars](https://img.shields.io/github/stars/username/repository)](https://github.com/InternLM/lmdeploy), a high performance inference framework for LLMs.
 
-[name-of-repo](https://github.com/InternLM/lmdeploy), [![Star Count](https://img.shields.io/github/stars/owner/repo?style=social)](https://github.com/InternLM/lmdeploy/stargazers)
+[LMDeploy](https://github.com/InternLM/lmdeploy), [![Star Count](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social)](https://github.com/InternLM/lmdeploy/stargazers)
 
 I have also contributed to open-source projects such as [Pytorch](https://github.com/pytorch/pytorch) and [Triton](https://github.com/triton-lang/triton). For more information, see my Project page.
 
