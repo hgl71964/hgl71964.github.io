@@ -11,7 +11,7 @@ I am a final year PhD Student in the [system research group](https://www.cl.cam.
 
 I have worked in the following cutting-edge research labs on efficient LLM systems for training and inference. 
 
-- **Bytedance Seed** pre-training platform team: I studied the impact of physical network topology to pre-training LLMs at the scale of O(10,000) GPUs, and developed scheduling systems for pre-training jobs.
+- **Bytedance Seed** pre-training platform team: I studied the impact of physical network topology to pre-training LLMs at the scale of O(10,000) GPUs, and contributed to an internal scheduling system for pre-training LLMs.
 
 - **Shanghai AI Lab** LLM infrastructure team: I contributed to [LMDeploy](https://github.com/InternLM/lmdeploy), [![Star Count](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social)](https://github.com/InternLM/lmdeploy/stargazers), a high performance inference framework for LLMs.
 
@@ -68,7 +68,17 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
     **G. He**, Z. Singh, and E. Yoneki
 
 
+<br>
 
+# Biography
+
+- 2021 - 2025 : Studied PhD degree at the University of Cambridge.
+
+- 2020 - 2021 : Worked as a software engineer in cloud infrastructure.
+
+- 2019 - 2020 : Receive my M.Sc. degree in Machine Learning from University College London.
+
+- 2015 - 2019 : Receive my B.Eng. degree from University of Edinburgh and South China University of Technology.
 
 
 
