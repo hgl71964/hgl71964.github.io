@@ -9,9 +9,11 @@ redirect_from:
 
 I am a final year PhD Student in the [system research group](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology, University of Cambridge, advised by [Dr Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/). My research focuses on RL-driven performance optimization, and recently works on LLM systems for efficient training and inference.
 
-I have worked in the following cutting-edge research labs on efficient LLM systems for training and inference. 
+I have worked in several industrial labs on building efficient LLM systems.
 
-- **Bytedance Seed** pre-training platform team: I studied the impact of physical network topology to pre-training LLMs at the scale of O(10,000) GPUs, and contributed to an internal scheduling system for pre-training LLMs.
+- **Cohere** model efficiency team: I worked on performance optimization of LLM serving.
+
+- **Bytedance Seed** pre-training team: I studied the impact of physical network topology to pre-training LLMs at the scale of O(10,000) GPUs, and contributed to an internal scheduling system for pre-training LLMs.
 
 - **Shanghai AI Lab** LLM infrastructure team: I contributed to [LMDeploy](https://github.com/InternLM/lmdeploy), [![Star Count](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social)](https://github.com/InternLM/lmdeploy/stargazers), a high performance inference framework for LLMs.
 
