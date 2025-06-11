@@ -36,18 +36,13 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 | [paper](https://arxiv.org/abs/paper-id) | [code](https://github.com/code-link) |
 -->
 
+- **Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs**<br>
+    <span style="color:green">ICML 2025, Efficient Systems for Foundation Models workshop</span><br>
+    **G. He**\*, Y. Jiang\*, W. Xiao, K. Jiang, S. Wang, J. Wang, Z. Du, Z. Jiang, X. Zhang, B. Yuan, E. Yoneki
+
 - **Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs**<br>
     <span style="color:green">ICML 2025</span><br>
     Y. Jiang\*, F. Fu\*, X. Yao\*, **G. He**\*, X. Miao, A. Klimovic, B. Cui, B. Yuan, E. Yoneki
-
-
-- **CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**<br>
-    <span style="color:green">CGO 2025</span><br>
-    **G. He**, E. Yoneki
-
-- **SIP: Autotuning GPU Native Schedules via Stochastic Instruction Perturbation**<br>
-    <span style="color:green">EuroSys 2024, EuroMLSys workshop</span><br>
-    **G. He**, E. Yoneki
 
 - **vPALs: Towards Verified Performance-aware Learning System For Resource Management**<br>
     <span style="color:green">AAAI 2024, deployable AI workshop</span><br>
@@ -58,15 +53,21 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 
 ### RL-Driven Performance Optimization
 
+- **CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**<br>
+    <span style="color:green">CGO 2025</span><br>
+    **G. He**, E. Yoneki
+
+- **SIP: Autotuning GPU Native Schedules via Stochastic Instruction Perturbation**<br>
+    <span style="color:green">EuroSys 2024, EuroMLSys workshop</span><br>
+    **G. He**, E. Yoneki
+
 - **Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search**<br>
     <span style="color:green">PACT 2024</span><br>
     J. Hartmann, **G. He** and E. Yoneki
 
-
 - **X-RLflow: Graph Reinforcement Learning for Neural Network Subgraph Transformation**<br>
     <span style="color:green">MLSys 2023</span><br>
     **G. He**, S. Parker, and E. Yoneki
-
 
 - **MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder**<br>
     <span style="color:green">EuroSys 2023, EuroMLSys workshop</span><br>
