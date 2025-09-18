@@ -31,7 +31,7 @@ Guoliang He\*, **Youhe Jiang**\*, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun
 -->
 
 - **Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs**<br>
-    <span style="color:green">ICML 2025, Efficient Systems for Foundation Models workshop</span><br>
+    <span style="color:green">NeurIPS 2025
     **G. He**\*, Y. Jiang\*, W. Xiao, K. Jiang, S. Wang, J. Wang, Z. Du, Z. Jiang, X. Zhang, B. Yuan, E. Yoneki
 
 - **Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs**<br>
