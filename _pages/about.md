@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD Student in the [system research group](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology, University of Cambridge. My research focuses on RL-driven performance optimization, and recently works on LLM systems for efficient training and inference.
+I am a final year PhD Student in the [system research group](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology, University of Cambridge. My research focuses on RL-driven performance optimization, and recently works on LLM and GPU performance.
 
-I have worked at **Cohere**, **Bytedance Seed** and **Shanghai AI Lab** for efficient LLM training and serving systems.
+I have worked at OpenAI, Cohere, Bytedance Seed and Shanghai AI Lab on LLM performance.
 
 I have also contributed to open-source projects such as [Pytorch](https://github.com/pytorch/pytorch) and [Triton](https://github.com/triton-lang/triton). For more information, see my Project page.
 
